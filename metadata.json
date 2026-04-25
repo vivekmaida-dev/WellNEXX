@@ -1,0 +1,7 @@
+{
+  "name": "Wellnexx Fitness Marketplace",
+  "description": "A production-grade fitness marketplace MVP with a virtual wallet (Wellcash) ledger system, role-based dashboards, and booking logic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
